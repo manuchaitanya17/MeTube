@@ -15,3 +15,6 @@
 <img>![image](https://github.com/user-attachments/assets/be7b0f0e-f5cf-48a6-85eb-d5e65a0ab9f9) </img> <br>
 
 <img>![image](https://github.com/user-attachments/assets/10f0712a-efcf-46a4-8614-e488f4df3068) </img> <br>
+
+<a href="https://github.com/user-attachments/files/16377793/Project.Details-.MeTube.pdf" download>Download PDF</a>
+
